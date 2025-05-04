@@ -42,7 +42,6 @@ This repository includes the **Python code and technical report** for a project
 | (p,d,q)                                                                                         | (P,D,Q,s)     | Residual Check                              |
 | ----------------------------------------------------------------------------------------------- | ------------- | ------------------------------------------- |
 | (1, 1, 0)                                                                                       | (0, 1, 1, 12) | Ljung‑Box p = 0.67 → white‑noise residuals  |
-| The model captures short‑term persistence (AR 1) and seasonal moving‑average behaviour (SMA 1). |               |                                             |
 
 ### 3.2 SARIMAX
 
